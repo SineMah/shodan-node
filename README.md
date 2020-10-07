@@ -3,9 +3,9 @@
 prints information of IPs
 
 ## Dependencies
-axios
-dotenv
-shodan-client
+* axios
+* dotenv
+* shodan-client
 
 ## Installation
 ```bash
